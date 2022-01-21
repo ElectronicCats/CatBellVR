@@ -26,3 +26,5 @@ fp-info-cache
 *.csv
 
 CatBellVR/CatBellVR-backups/
+
+*.kicad_sch-bak
